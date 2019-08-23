@@ -314,7 +314,9 @@ background: linear-gradient(
 
 /*////////// LOGO //////////*/
 
-#logo 
+#logo {
+  padding: 84px 0 0;
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
